@@ -2,10 +2,12 @@
   <remote name="origin" url="ssh://git@github.com" />
   <repo remotes="origin" project="aldebaran/gtest.git" src="sdk/libgtest" />
   <repo remotes="origin" project="aldebaran/libqi.git" src="sdk/libqi" />
+  <repo remotes="origin" project="aldebaran/probes.git" src="sdk/libqiprobes" />
   <groups>
     <group default="true" name="default">
       <project name="aldebaran/gtest.git" />
       <project name="aldebaran/libqi.git" />
+      <project name="aldebaran/probes.git" />
     </group>
   </groups>
 </manifest>
