@@ -2,11 +2,24 @@
   <remote name="origin" url="ssh://git@github.com" />
   <repo remotes="origin" project="aldebaran/gtest.git" src="sdk/libgtest" />
   <repo remotes="origin" project="aldebaran/libqi.git" src="sdk/libqi" />
+  <repo remotes="origin" project="aldebaran/libqi-capi.git" src="sdk/libqi-capi" />
+  <repo remotes="origin" project="aldebaran/libqi-dotnet.git" src="sdk/libqi-dotnet" />
+  <repo remotes="origin" project="aldebaran/libqi-java.git" src="sdk/libqi-java" />
+  <repo remotes="origin" project="aldebaran/libqi-julia.git" src="sdk/libqi-julia" />
+  <repo remotes="origin" project="aldebaran/libqi-js.git" src="sdk/libqi-js" />
+  <repo remotes="origin" project="aldebaran/libqi-python.git" src="sdk/libqi-python" />
   <repo remotes="origin" project="aldebaran/probes.git" src="sdk/libqiprobes" />
+
   <groups>
     <group default="true" name="default">
       <project name="aldebaran/gtest.git" />
       <project name="aldebaran/libqi.git" />
+      <project name="aldebaran/libqi-capi.git" />
+      <project name="aldebaran/libqi-dotnet.git" />
+      <project name="aldebaran/libqi-java.git" />
+      <project name="aldebaran/libqi-julia.git" />
+      <project name="aldebaran/libqi-js.git" />
+      <project name="aldebaran/libqi-python.git" />
       <project name="aldebaran/probes.git" />
     </group>
   </groups>
