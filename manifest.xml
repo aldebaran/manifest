@@ -13,18 +13,4 @@
   <repo remotes="origin" project="aldebaran/qilang.git" src="sdk/libqilang" />
   <repo remotes="origin" project="aldebaran/manifest.git" src="manifest" />
 
-  <groups>
-    <group default="true" name="default">
-      <project name="aldebaran/gtest.git" />
-      <project name="aldebaran/libqi.git" />
-      <project name="aldebaran/libqi-capi.git" />
-      <project name="aldebaran/libqi-dotnet.git" />
-      <project name="aldebaran/libqi-java.git" />
-      <project name="aldebaran/libqi-julia.git" />
-      <project name="aldebaran/libqi-js.git" />
-      <project name="aldebaran/libqi-python.git" />
-      <project name="aldebaran/libqiprobes.git" />
-      <project name="aldebaran/manifest.git" />
-    </group>
-  </groups>
 </manifest>
