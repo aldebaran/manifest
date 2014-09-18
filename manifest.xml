@@ -10,6 +10,7 @@
   <repo remotes="origin" project="aldebaran/libqi-js.git" src="sdk/libqi-js" />
   <repo remotes="origin" project="aldebaran/libqi-python.git" src="sdk/libqi-python" />
   <repo remotes="origin" project="aldebaran/libqiprobes.git" src="sdk/libqiprobes" />
+  <repo remotes="origin" project="aldebaran/qilang.git" src="sdk/libqilang" />
   <repo remotes="origin" project="aldebaran/manifest.git" src="manifest" />
 
   <groups>
