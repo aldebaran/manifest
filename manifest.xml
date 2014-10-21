@@ -12,6 +12,8 @@
   <repo remotes="origin" project="aldebaran/libqiprobes.git" src="sdk/libqiprobes" />
   <repo remotes="origin" project="aldebaran/qilang.git" src="sdk/libqilang" />
   <repo remotes="origin" project="aldebaran/qi-doc" src="sdk/doc" />
+  <repo remotes="origin" project="aldebaran/doc-templates" src="doc/templates" />
+  <repo remotes="origin" project="aldebaran/doc-tools" src="doc/tools" />
   <repo remotes="origin" project="aldebaran/manifest.git" src="manifest" />
 
 </manifest>
