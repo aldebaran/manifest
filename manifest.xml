@@ -1,9 +1,9 @@
 <manifest>
   <remote name="origin" url="ssh://git@github.com" />
-  <repo remotes="origin" project="aldebaran/gtest.git" src="sdk/libgtest" />
-  <repo remotes="origin" project="aldebaran/libqi.git" src="sdk/libqi" />
-  <repo remotes="origin" project="aldebaran/probes.git" src="sdk/libqiprobes" />
-  <repo remotes="origin" project="aldebaran/manifest.git" src="manifest" />
+  <repo remotes="origin" project="aldebaran/gtest.git" src="sdk/libgtest" branch="release-2.3"/>
+  <repo remotes="origin" project="aldebaran/libqi.git" src="sdk/libqi" branch="release-2.3"/>
+  <repo remotes="origin" project="aldebaran/probes.git" src="sdk/libqiprobes" branch="release-2.3"/>
+  <repo remotes="origin" project="aldebaran/manifest.git" src="manifest" branch="release-2.3"/>
   <groups>
     <group default="true" name="default">
       <project name="aldebaran/gtest.git" />
