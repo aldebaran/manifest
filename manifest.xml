@@ -1,5 +1,5 @@
 <manifest>
-  <remote name="origin" url="ssh://git@github.com" />
+  <remote name="origin" url="https://github.com" />
   <repo remotes="origin" project="aldebaran/gtest.git" src="sdk/libgtest" branch="release-2.4"/>
   <repo remotes="origin" project="aldebaran/libqi.git" src="sdk/libqi" branch="release-2.4"/>
   <repo remotes="origin" project="aldebaran/probes.git" src="sdk/libqiprobes" branch="release-2.4"/>
